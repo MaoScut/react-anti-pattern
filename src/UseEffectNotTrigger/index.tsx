@@ -1,7 +1,4 @@
 import React, { FC, useEffect, useState } from 'react'
-import classNames from 'classnames'
-
-import styles from './style.module.css'
 
 export interface IUseEffectNotTriggerProps {
 }
